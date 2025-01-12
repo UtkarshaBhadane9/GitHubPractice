@@ -26,6 +26,7 @@ public class ArrayListEx1 {
 		}
                public void add(){
                int sum = 20+30;
+               System.out.println("addition of 2 no. is = " +sum);     
               }
 	}
 
