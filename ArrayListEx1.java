@@ -24,6 +24,9 @@ public class ArrayListEx1 {
 		for (int i = 0; i < ar.size(); i++) {
 			System.out.println(ar.get(i));
 		}
+               public void add(){
+               int sum = 20+30;
+              }
 	}
 
 }
